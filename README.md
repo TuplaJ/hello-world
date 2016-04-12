@@ -1,2 +1,2 @@
 # hello-world
-Hello if you read this. Have a nice day.
+Hello! If you read this, I hope you have a nice day.
